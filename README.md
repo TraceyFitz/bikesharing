@@ -18,3 +18,4 @@ Lastly, I'd like to see somee of the most import information, the financials. Ho
 
 Please below of visual story of the data: 
 https://public.tableau.com/app/profile/tracey.fitzpatrick/viz/Bikesharestory/BikeSharingBusinessAnalysis?publish=yes
+
