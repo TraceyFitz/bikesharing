@@ -15,3 +15,6 @@ Summary: Based on the information provided it would appear bike sharing is prima
 There could be untapped opportunities in the female market, as well as tourists. I would suggest targeting advertsing and partnering with hotels in the area to promote/offer this service.  
 
 Lastly, I'd like to see somee of the most import information, the financials. How much are subsribers vs customers charged? What are the overhead expenses - bikes, maintenance, staff, advertising, etc. Without this information it is impossible to determine if this is a viable business opportunity for De Moines Iowa. 
+
+Please below of visual story of the data: 
+https://public.tableau.com/app/profile/tracey.fitzpatrick/viz/Bikesharestory/BikeSharingBusinessAnalysis?publish=yes
